@@ -1,0 +1,8 @@
+COMANDOS GIT/GITHUB
+
+- git init
+- git status
+- git add
+- git commit
+- git remote add origin + link repo
+- git push -u origin main
